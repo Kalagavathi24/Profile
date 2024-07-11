@@ -368,6 +368,12 @@ background-form {
     color:white;
   }
 
+  .footer {
+    background-color:#0ef; /* Example background color */
+    padding: 20px 0;
+    color: #081b29;; /* Example text color */
+  }
+  
   
   .footer .social-icons a {
     color: #333; /* Color for the icons */
@@ -379,11 +385,4 @@ background-form {
     color: #0056b3; /* Hover color for the icons */
   }
   
-  
-
-  .footer {
-    background-color:#0ef; /* Example background color */
-    padding: 20px 0;
-    color: #333; /* Example text color */
-  }
   
